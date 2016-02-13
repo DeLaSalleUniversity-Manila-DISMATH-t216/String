@@ -1,6 +1,6 @@
 # String
 
-~[jcinsanity](Screenshot 001.PNG)
+![jcinsanity](Screenshot 001.PNG)
 
 ~~~
 package ph.edu.dlsu;
